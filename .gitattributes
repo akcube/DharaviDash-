@@ -1,0 +1,5 @@
+Binaries/Win64/WorldChaseTag-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
+Binaries/Win64/WorldChaseTag-Win64-Shipping.pdb filter=lfs diff=lfs merge=lfs -text
+Windows/WorldChaseTag/Content/Movies/In[[:space:]]the[[:space:]]heart[[:space:]]of[[:space:]]Dharavi,[[:space:]]where[[:space:]]the[[:space:]]rhythm[[:space:]]of[[:space:]]life[[:space:]]echoes[[:space:]]through[[:space:]]every[[:space:]]narrow[[:space:]]alley.mp4 filter=lfs diff=lfs merge=lfs -text
+Windows/WorldChaseTag/Content/Paks/WorldChaseTag-Windows.ucas filter=lfs diff=lfs merge=lfs -text
+Windows/WorldChaseTag/Binaries/Win64/WorldChaseTag-Win64-Shipping.exe filter=lfs diff=lfs merge=lfs -text
