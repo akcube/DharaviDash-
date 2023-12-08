@@ -1,8 +1,8 @@
 # Dharavi Dash?
 
-Team Name: gameGame
-Team Members: Kishore Kumar, Praneetha Gokul
-Files link: [OneDrive](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/a_kishorekumar_students_iiit_ac_in/ESX6_0uVEKpAh0jtiFpoHJUBkvcLkKdlNhJpXFNQy0_OXw?e=ZCDLSA)
+- Team Name: gameGame
+- Team Members: Kishore Kumar, Praneetha Gokul
+- Files link: [OneDrive](https://iiitaphyd-my.sharepoint.com/:u:/g/personal/a_kishorekumar_students_iiit_ac_in/ESX6_0uVEKpAh0jtiFpoHJUBkvcLkKdlNhJpXFNQy0_OXw?e=ZCDLSA)
 
 ## Description
 
